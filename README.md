@@ -1,4 +1,4 @@
-K-means for color compression
+K-means for color compression 🟥🟩🟦 
 =========
 
 ## Objective
